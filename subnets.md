@@ -2,6 +2,6 @@
  - 170.7.0.0/23
  - 170.7.2.0/23
  - 170.7.4.0/23
- - 170.7.6.0/
+ - 170.7.6.0/23
  
 ![image](https://github.com/user-attachments/assets/f27ec421-00b8-4367-b84f-0fc63ba93a26)
