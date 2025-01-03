@@ -5,3 +5,11 @@ Diff between AWS CLI  and AWS CFT is CLI is not a Iac tool and moreover it will 
 
 Drift detection is the key feature. If someone disables the versioning then we can use the drift detection option to see the previous changes and current changes.
 Things needed while writing CFT ( version, description, metadata, parameters, rules, mappimgs, conditions, resources ) 
+
+Type: AWS::EC2::Instance
+Properties:
+  AdditionalInfo: String
+  Affinity: String
+  AvailabilityZone: String
+  BlockDeviceMappings: 
+    - BlockDeviceMapping
